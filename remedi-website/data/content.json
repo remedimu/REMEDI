@@ -1,0 +1,181 @@
+{
+  "resources": {
+    "proposalTemplates": [
+      { "name": "Clinical Case Report Proposal Template", "pdf": "pdfs/Clinical Case Report Proposal Template (6)" },
+      { "name": "Systematic Review Proposal Template", "pdf": "pdfs/Systematic Review Proposal Template (7)" },
+      { "name": "Literature Review Proposal Template", "pdf": "pdfs/Literature Review Proposal Template (8)" },
+      { "name": "Cross-sectional Study Template", "pdf": "pdfs/Cross-sectional Study Template (9)" }
+    ],
+    "writingGuides": [
+      { "name": "How to Write a Scientific Paper", "pdf": "pdfs/How to Write a Scientific Paper" },
+      { "name": "The Academic Blueprint", "pdf": "pdfs/The Academic Blueprint" }
+    ],
+    "researchOpportunities": "Discover open research positions, mentorship programmes, and collaboration opportunities across all seven interest groups. Join a project that matches your passion."
+  },
+  "groups": [
+    {
+      "tag": "Med AI",
+      "title": "Med AI",
+      "leader": "",
+      "summary": "Explores the growing role of artificial intelligence in healthcare, focusing on its clinical applications, research potential, ethical considerations, and impact on the future of medical practice.",
+      "posts": [
+        { "postTitle": "Machine Learning in Clinical Diagnostics", "date": "June 2026", "pdf": "pdfs/Artificial Intelligence in Orthopedic Surgery Current Applications, Challenges, and Future Directions" },
+        { "postTitle": "AI X Oncology", "date": "July 2026", "pdf": "pdfs/Intelligence, Not Interpretation Rethinking Oncology Through Digital Pathology & Spatial Omics" }
+      ]
+    },
+    {
+      "tag": "Dermatology",
+      "title": "Dermatology",
+      "leader": "Lama Al-Hamaideh",
+      "summary": "Provides students with opportunities to explore dermatology through educational content, clinical discussions, research, and activities that highlight both common and specialized dermatological conditions.",
+      "posts": [
+        { "postTitle": "Acne Through the Lens of the Skin Microbiome", "date": "June 2026", "pdf": "pdfs/Balance, Not Battle Rethinking Acne Through the Microbiome" },
+        { "postTitle": "AI X Skin Cancer", "date": "July 2026", "pdf": "pdfs/skin cancer" }
+      ]
+    },
+    {
+      "tag": "Oncology",
+      "title": "Oncology",
+      "leader": "Mostafa Al-Rababah",
+      "summary": "Introduces students to the field of oncology through educational sessions, clinical discussions, research opportunities, and exploration of cancer prevention, diagnosis, treatment, and patient care.",
+      "posts": [
+        { "postTitle": "Cancer Immunotherapy", "date": "June 2026", "pdf": "pdfs/cancer immunotherapy" },
+        { "postTitle": "ibrutininb in Cancer Therapy", "date": "July 2026", "pdf": "pdfs/ibrutininb final" }
+      ]
+    },
+    {
+      "tag": "Paediatric",
+      "title": "Paediatric",
+      "leader": "Razan Al-Hamaideh",
+      "summary": "Encourages students to explore pediatrics through interactive learning, clinical discussions, research opportunities, and activities focused on the health and wellbeing of children and adolescents.",
+      "posts": [
+        { "postTitle": " Antibiotic Overprescription in Respiratory Tract Infections ", "date": "June 2026", "pdf": "pdfs/Factors Contributing to Antibiotic Overprescription in Pediatric Upper Respiratory Tract Infections Review Article" }
+      ]
+    },
+    {
+      "tag": "Neurology",
+      "title": "Neurology",
+      "leader": "Mohammed Al-Zeedien",
+      "summary": "Explores the foundations and clinical aspects of neurology and neuroscience through educational activities, discussions, research opportunities, and exposure to neurological conditions and specialties.",
+      "posts": [
+        { "postTitle": "Body Mass Index and Migraine Burden ", "date": "June 2026", "pdf": "pdfs/Body Mass Index and Migraine Burden A Literature Review" }
+      ]
+    },
+    {
+      "tag": "Pharmacology",
+      "title": "Pharmacology",
+      "leader": "Nida Al-Bashiti",
+      "summary": "Helps students develop a deeper understanding of pharmacology and its clinical applications through educational activities, discussions, and exploration of how medications influence patient care and treatment decisions.",
+      "posts": [
+        { "postTitle": "Therapeutic Peptides in Rheumatoid and Osteoarthritis", "date": "June 2026", "pdf": "pdfs/Therapeutic Peptides in Rheumatoid and Osteoarthritis The Dream of Achieving More Tolerable Therapies, or Not" },
+        { "postTitle": " A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance", "date": "July 2026", "pdf": "pdfs/Ferroptosis Inducing Drugs A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance" }
+      ]
+    },
+    {
+      "tag": "Psychiatry",
+      "title": "Psychiatry",
+      "leader": "Youmna Mamdooh",
+      "summary": "Provides students with opportunities to explore psychiatry, mental health, and behavioral medicine through educational activities, clinical discussions, research, and awareness initiatives.",
+      "posts": [
+        { "postTitle": "Perfectionism and Its Psychological Implications", "date": "June 2026", "pdf": "pdfs/Perfectionism A Multidimensional Construct and Its Psychological Implications" },
+        { "postTitle": "Psychological Consequences of Social Media Use", "date": "July 2026", "pdf": "pdfs/Psychological_Consequences_of_Social_Media_Use_Review_v3_voice (1)" }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "youtubeId": "AQ8qTCmewVE ",
+      "title": "How to Write a Research Paper",
+      "description": "A step-by-step guide to writing and publishing scientific papers, covering structure, methodology, and academic writing best practices.",
+      "instructor": "Dr. Ahmad Hassanat"
+    },
+
+    {
+      "youtubeId": "6D67-WZ9fBM",
+      "title": "Academic Writing Guide",
+      "description": "A comprehensive guide to academic writing, including structure, style, and citation best practices.",
+      "instructor": "Dr. Ahmad Hassanat"
+    }
+  ],
+  "updates": [
+    {
+      "type": "Activities",
+      "title": "Activities",
+      "description": "Explore our latest events, workshops, and collaborative activities. From hands-on research sessions to educational seminars, see what REMEDI members are working on.",
+      "image": "images/activities 2.png"
+    },
+    {
+      "type": "Announcements",
+      "title": "Announcements",
+      "description": "Keep up with the latest news from REMEDI.",
+      "image": "images/announcements (2).png"
+    },
+    {
+      "type": "Research Opportunities",
+      "title": "Research Opportunities",
+      "description": "Discover open research positions, mentorship programmes, and collaboration opportunities across all seven interest groups. Join a project that matches your passion.",
+      "image": "images/research opportunities.png"
+    }
+  ],
+  "team": {
+    "committees": [
+      {
+        "committeeName": "Executive Committee",
+        "members": [
+          { "name": "Lama Al-Hamaideh", "role": "President (Co-Founder)", "bio": "Co-founder and President of REMEDI. Leads the initiative's strategic direction and oversees all committees.", "photo": "images/lama-alhamaideh.jpg" },
+          { "name": "Mohammad Dayyeh", "role": "Vice President (Co-Founder)", "bio": "Supports the President in executing REMEDI's mission and managing day-to-day operations.", "photo": "images/mohammad-dayyeh.png" }
+        ]
+      },
+      {
+        "committeeName": "Research Committee",
+        "members": [
+          { "name": "Saif Abu Ghaida", "role": "Research Coordinator", "bio": "Coordinates research activities across all interest groups and supports members with their ongoing projects.", "photo": "images/saif-abughaida.jpg" }
+        ]
+      },
+      {
+        "committeeName": "Development Committee",
+        "members": [
+          { "name": "Mustafa Rababah", "role": "Internal Affairs Coordinator", "bio": "Manages internal communications, member onboarding, and ensures smooth coordination within the initiative.", "photo": "images/mustafa-rababah.jpg" }
+        ]
+      },
+      {
+        "committeeName": "Logistics Committee",
+        "members": [
+          { "name": "Tala Tayyem", "role": "Head of Logistics & Operations", "bio": "Oversees all logistics, resources, management, and operational planning for all REMEDI's activities.", "photo": "images/tala-tayyem.jpg" },
+          { "name": "Amro Al-Rashdan", "role": "Events & Operations Coordinator", "bio": "Coordinates events and supports operational needs across all REMEDI's committees and activities.", "photo": "images/amro-alrashdan.png" }
+        ]
+      },
+      {
+        "committeeName": "Media Committee",
+        "members": [
+          { "name": "Juddy Nawafleh", "role": "Head of Media & Communications", "bio": "Leads REMEDI's media presence, content strategy, and communications across social and traditional channels.", "photo": "images/juddy-nawafleh.jpg" },
+          { "name": "Wessam Maaitah", "role": "Co-head of Media & Communications", "bio": "Supports media production, social media management, and content creation for REMEDI's outreach efforts.", "photo": "images/wessam-maaitah.jpg" },
+          { "name": "Sameh Al-Qawasmeh", "role": "Media & Communications Coordinator", "bio": "Assists in media production, social media management, and content creation for REMEDI's outreach efforts.", "photo": "images/sameh-alqawasmeh.jpg" },
+          { "name": "Sara Remawi", "role": "Media & Communications Coordinator", "bio": "Assists in media production, social media management, and content creation for REMEDI's outreach efforts.", "photo": "images/sara-remawi.jpg" }
+        ]
+      },
+      {
+        "committeeName": "Fundraising & External Relations Committee",
+        "members": [
+          { "name": "Abdallah Sarayra", "role": "Head of Fundraising & External Relations Committee", "bio": "Oversees financial planning, budgeting, and fundraising initiatives to support REMEDI's activities and growth.", "photo": "images/abdallah-sarayra.png" },
+          { "name": "Moamen Al-Tarawneh", "role": "Sponsorship & Partnerships Coordinator", "bio": "Supports fundraising initiatives, donor relations, and external partnerships to enhance REMEDI's impact.", "photo": "images/moamen-altarawneh.jpg" }
+        ]
+      },
+      {
+        "committeeName": "Press Team",
+        "members": [
+          { "name": "Tareq Ghawanmeh", "role": "Video Editor", "bio": "Transforms REMEDI's ideas and moments into engaging visual stories through creative video editing and digital content creation.", "photo": "images/tareq-ghawanmeh.jpg" },
+          { "name": "Ahmad Qabajah", "role": "Videographer & Content Creator", "bio": "Captures REMEDI's events, activities, and behind-the-scenes moments, bringing the initiatives to life through visual storytelling.", "photo": "images/ahmad-qabajah.jpg" },
+          { "name": "Mohammad Nour Al-Kasasbeh", "role": "Videographer & Content Creator", "bio": "Captures REMEDI's events, activities, and behind-the-scenes moments, bringing the initiatives to life through visual storytelling.", "photo": "images/mohammadnour-alkasasbeh.jpg" }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "googleForm": "https://forms.gle/LquanXXxHz5wqEf16",
+    "youtubeChannel": "https://www.youtube.com/channel/UCy3ALKm9w5OYiAimy7f1x2A",
+    "instagram": "https://www.instagram.com/remedi.mu?igsi=MTNiOHNjNmdkemtnNg%3D%3D&utm_source=qr",
+    "email": "remedimu@gmail.com",
+    "address": "Mutah University, P.O. Box 7, Al-Karak 61710, Jordan"
+  }
+}

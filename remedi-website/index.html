@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>REMEDI — Research and Medicine Initiative</title>
+<meta name="description" content="REMEDI is a student-led initiative dedicated to making medical research accessible through education, mentorship, collaboration, and practical opportunities." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header">
+  <div class="container">
+    <a href="#" class="brand">
+      <img src="images/logo.png" alt="REMEDI logo" />
+      <span>REMEDI</span>
+    </a>
+    <nav class="main-nav" id="mainNav">
+      <ul>
+        <li><a href="#courses">Our Courses</a></li>
+        <li><a href="#blogs">Blogs</a></li>
+        <li><a href="#updates">Updates</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#team">Team</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <div class="container">
+    <p class="eyebrow">REMEDI</p>
+    <h2>Research and Medicine Initiative</h2>
+    <h1>Advancing Knowledge<br><em>Together</em></h1>
+    <p class="lead">REMEDI is a student-led initiative dedicated to making medical research accessible through education, mentorship, collaboration, and practical opportunities.</p>
+    <div class="cta-row">
+      <a href="#courses" class="btn btn-primary">Explore Courses</a>
+      <a href="#updates" class="btn btn-outline">REMEDI Updates</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== COURSES / VIDEO LIBRARY ===== -->
+<section class="section-courses" id="courses">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">Video Library</p>
+      <h2>Our Courses</h2>
+      <p>Open-access lecture series produced by REMEDI members and faculty collaborators. Filter by topic to find what fits your path.</p>
+    </div>
+    <div class="course-grid" id="courseGrid"><!-- filled by JS --></div>
+  </div>
+</section>
+
+<!-- ===== BLOGS ===== -->
+<section class="section-blogs" id="blogs">
+  <div class="container">
+    <div class="section-head">
+      <h2 style="color:#fff">Blogs</h2>
+      <p>Explore research write-ups, group updates, and collaborative projects from our seven specialised teams.</p>
+    </div>
+    <div class="blog-filters">
+      <input type="text" id="blogSearch" placeholder="Search groups or topics..." />
+      <select id="topicFilter"><option value="">All Topics</option></select>
+      <select id="yearFilter"><option value="">All Years</option></select>
+    </div>
+    <div class="blog-grid" id="blogGrid"><!-- filled by JS --></div>
+  </div>
+</section>
+
+<!-- ===== UPDATES ===== -->
+<section class="section-updates" id="updates">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">Latest</p>
+      <h2>REMEDI Updates</h2>
+      <p>Stay informed about our ongoing activities, announcements, and research opportunities.</p>
+    </div>
+    <div class="update-grid" id="updateGrid"><!-- filled by JS --></div>
+  </div>
+</section>
+
+<!-- ===== RESOURCES / RESEARCH OPPORTUNITIES ===== -->
+<section class="section-resources">
+  <div class="container">
+    <div class="resource-box">
+      <h3>Research Proposal Templates</h3>
+      <div id="proposalTemplatesList"><!-- filled by JS --></div>
+      <h3 style="margin-top:26px">Writing Guides</h3>
+      <div id="writingGuidesList"><!-- filled by JS --></div>
+    </div>
+    <div class="resource-box">
+      <h3>Research Opportunities</h3>
+      <p id="researchOppsText" style="color:var(--text-muted-light); margin-bottom:16px;"><!-- filled by JS --></p>
+      <a href="#contact" style="font-weight:700; color:var(--navy);">Learn more →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== ABOUT ===== -->
+<section class="section-about" id="about">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">About REMEDI</p>
+      <h2>Who We Are</h2>
+      <p>A student-led research initiative spanning three Jordanian medical universities — Mutah University, the University of Jordan, and Ibn Sina University — founded to connect medical students with meaningful research opportunities.</p>
+    </div>
+    <div class="about-card">
+      <h3>Our Mission</h3>
+      <p>REMEDI exists to cultivate a research culture among medical students. We believe that early exposure to research methodology, collaborative interest groups, and open mentorship shapes better physicians and advances healthcare in Jordan.</p>
+    </div>
+    <div class="about-card">
+      <h3>Our Goals</h3>
+      <ul class="goals-list">
+        <li><span class="check">✓</span><span>Provide open-access courses that demystify research for medical students.</span></li>
+        <li><span class="check">✓</span><span>Support interest groups with mentorship, resources, and project infrastructure.</span></li>
+        <li><span class="check">✓</span><span>Promote student-led publication and presentation at regional conferences.</span></li>
+        <li><span class="check">✓</span><span>Bridge clinical practice and research through faculty collaboration.</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ===== TEAM ===== -->
+<section class="team-section" id="team">
+  <div class="container">
+    <h2>Our Team</h2>
+    <div id="committeeGrid"><!-- filled by JS: one block per committee, with its members inside --></div>
+  </div>
+</section>
+
+<!-- ===== CONTACT ===== -->
+<section class="section-contact" id="contact">
+  <div class="container">
+    <div class="section-head" style="color:#fff">
+      <h2 style="color:#fff">Contact Us</h2>
+      <p>Want to join a group, contribute a course, or collaborate? We'd love to hear from you.</p>
+    </div>
+    <div class="contact-info">
+      <div class="item">📍 <span id="addressText">Mutah University, P.O. Box 7, Al-Karak 61710, Jordan</span></div>
+      <div class="item">✉️ <span id="emailText">remedimu@gmail.com</span></div>
+    </div>
+    <form class="contact-form" id="contactForm" method="POST" target="_blank">
+      <div class="form-row">
+        <label>Full Name</label>
+        <input type="text" name="fullName" placeholder="Your name" required />
+      </div>
+      <div class="form-row">
+        <label>Email</label>
+        <input type="email" name="email" placeholder="you@example.com" required />
+      </div>
+      <div class="form-row">
+        <label>Year of Study</label>
+        <select name="year">
+          <option>1st Year</option>
+          <option>2nd Year</option>
+          <option>3rd Year</option>
+          <option>4th Year</option>
+          <option>5th Year</option>
+          <option>6th Year</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <label>I'm interested in...</label>
+        <select name="interest">
+          <option>Med AI</option>
+          <option>Dermatology</option>
+          <option>Oncology</option>
+          <option>Paediatrics</option>
+          <option>Pharmacology</option>
+          <option>Psychiatry</option>
+          <option>Neurology</option>
+        </select>
+      </div>
+      <div class="form-row">
+        <label>Message</label>
+        <textarea name="message" placeholder="Tell us a bit about yourself and what you're looking for..."></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary" style="width:100%">Send Message</button>
+      <p class="form-note">This form submits directly to our Google Form — REMEDI's team will follow up by email.</p>
+    </form>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-brand">
+          <img src="images/logo.png" alt="REMEDI logo" />
+          <div class="names"><span>REMEDI</span><span>Research and Medicine Initiative</span></div>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h5>Explore</h5>
+        <a href="#courses">Our Courses</a>
+        <a href="#blogs">Blogs</a>
+        <a href="#updates">Updates</a>
+        <a href="#about">About</a>
+      </div>
+      <div class="footer-col" id="footerBlogLinks">
+        <h5>Blogs</h5>
+        <!-- filled by JS from group tags -->
+      </div>
+      <div class="footer-col">
+        <h5>Contact</h5>
+        <a href="#contact">Join a group</a>
+        <a href="#contact">Collaborate</a>
+        <a href="#" id="footerEmailLink">Email us</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 REMEDI. All rights reserved.</p>
+      <em>Built by students, for students.</em>
+    </div>
+  </div>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
