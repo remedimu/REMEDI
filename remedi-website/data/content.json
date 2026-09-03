@@ -1,14 +1,14 @@
 {
   "resources": {
     "proposalTemplates": [
-      { "name": "Clinical Case Report Proposal Template", "pdf": "pdfs/Clinical Case Report Proposal Template (6)" },
-      { "name": "Systematic Review Proposal Template", "pdf": "pdfs/Systematic Review Proposal Template (7)" },
-      { "name": "Literature Review Proposal Template", "pdf": "pdfs/Literature Review Proposal Template (8)" },
-      { "name": "Cross-sectional Study Template", "pdf": "pdfs/Cross-sectional Study Template (9)" }
+      { "name": "Clinical Case Report Proposal Template", "pdf": "pdfs/Clinical Case Report Proposal Template (6).pdf" },
+      { "name": "Systematic Review Proposal Template", "pdf": "pdfs/Systematic Review Proposal Template (7).pdf" },
+      { "name": "Literature Review Proposal Template", "pdf": "pdfs/Literature Review Proposal Template (8).pdf" },
+      { "name": "Cross-sectional Study Template", "pdf": "pdfs/Cross-sectional Study Template (9).pdf" }
     ],
     "writingGuides": [
-      { "name": "How to Write a Scientific Paper", "pdf": "pdfs/How to Write a Scientific Paper" },
-      { "name": "The Academic Blueprint", "pdf": "pdfs/The Academic Blueprint" }
+      { "name": "How to Write a Scientific Paper", "pdf": "pdfs/How to Write a Scientific Paper.pdf" },
+      { "name": "The Academic Blueprint", "pdf": "pdfs/The Academic Blueprint.pdf" }
     ],
     "researchOpportunities": "Discover open research positions, mentorship programmes, and collaboration opportunities across all seven interest groups. Join a project that matches your passion."
   },
@@ -17,48 +17,48 @@
       "tag": "Med AI",
       "title": "Med AI",
       "leader": "",
-      "summary": "Explores the growing role of artificial intelligence in healthcare, focusing on its clinical applications, research potential, ethical considerations, and impact on the future of medical practice.",
+      "summary": "Explores the growing role of artificial intelligence in healthcare, focusing on its clinical applications, research potential, ethical considerations, and impact on the future of medical practice.pdf.",
       "posts": [
-        { "postTitle": "Machine Learning in Clinical Diagnostics", "date": "June 2026", "pdf": "pdfs/Artificial Intelligence in Orthopedic Surgery Current Applications, Challenges, and Future Directions" },
-        { "postTitle": "AI X Oncology", "date": "July 2026", "pdf": "pdfs/Intelligence, Not Interpretation Rethinking Oncology Through Digital Pathology & Spatial Omics" }
+        { "postTitle": "Machine Learning in Clinical Diagnostics", "date": "June 2026", "pdf": "pdfs/Artificial Intelligence in Orthopedic Surgery Current Applications, Challenges, and Future Directions.pdf" },
+        { "postTitle": "AI X Oncology", "date": "July 2026", "pdf": "pdfs/Intelligence, Not Interpretation Rethinking Oncology Through Digital Pathology & Spatial Omics.pdf" }
       ]
     },
     {
       "tag": "Dermatology",
       "title": "Dermatology",
       "leader": "Lama Al-Hamaideh",
-      "summary": "Provides students with opportunities to explore dermatology through educational content, clinical discussions, research, and activities that highlight both common and specialized dermatological conditions.",
+      "summary": "Provides students with opportunities to explore dermatology through educational content, clinical discussions, research, and activities that highlight both common and specialized dermatological conditions.pdf",
       "posts": [
-        { "postTitle": "Acne Through the Lens of the Skin Microbiome", "date": "June 2026", "pdf": "pdfs/Balance, Not Battle Rethinking Acne Through the Microbiome" },
-        { "postTitle": "AI X Skin Cancer", "date": "July 2026", "pdf": "pdfs/skin cancer" }
+        { "postTitle": "Acne Through the Lens of the Skin Microbiome", "date": "June 2026", "pdf": "pdfs/Balance, Not Battle Rethinking Acne Through the Microbiome.pdf" },
+        { "postTitle": "AI X Skin Cancer", "date": "July 2026", "pdf": "pdfs/skin cancer(1).pdf" }
       ]
     },
     {
       "tag": "Oncology",
       "title": "Oncology",
       "leader": "Mostafa Al-Rababah",
-      "summary": "Introduces students to the field of oncology through educational sessions, clinical discussions, research opportunities, and exploration of cancer prevention, diagnosis, treatment, and patient care.",
+      "summary": "Introduces students to the field of oncology through educational sessions, clinical discussions, research opportunities, and exploration of cancer prevention, diagnosis, treatment, and patient care.pdf",
       "posts": [
-        { "postTitle": "Cancer Immunotherapy", "date": "June 2026", "pdf": "pdfs/cancer immunotherapy" },
-        { "postTitle": "ibrutininb in Cancer Therapy", "date": "July 2026", "pdf": "pdfs/ibrutininb final" }
+        { "postTitle": "Cancer Immunotherapy", "date": "June 2026", "pdf": "pdfs/cancer immunotherapy.pdf" },
+        { "postTitle": "ibrutininb in Cancer Therapy", "date": "July 2026", "pdf": "pdfs/ibrutininb final.pdf" }
       ]
     },
     {
       "tag": "Paediatric",
       "title": "Paediatric",
       "leader": "Razan Al-Hamaideh",
-      "summary": "Encourages students to explore pediatrics through interactive learning, clinical discussions, research opportunities, and activities focused on the health and wellbeing of children and adolescents.",
+      "summary": "Encourages students to explore pediatrics through interactive learning, clinical discussions, research opportunities, and activities focused on the health and wellbeing of children and adolescents.pdf",
       "posts": [
-        { "postTitle": " Antibiotic Overprescription in Respiratory Tract Infections ", "date": "June 2026", "pdf": "pdfs/Factors Contributing to Antibiotic Overprescription in Pediatric Upper Respiratory Tract Infections Review Article" }
+        { "postTitle": " Antibiotic Overprescription in Respiratory Tract Infections ", "date": "June 2026", "pdf": "pdfs/Factors Contributing to Antibiotic Overprescription in Pediatric Upper Respiratory Tract Infections Review Article.pdf" }
       ]
     },
     {
       "tag": "Neurology",
       "title": "Neurology",
       "leader": "Mohammed Al-Zeedien",
-      "summary": "Explores the foundations and clinical aspects of neurology and neuroscience through educational activities, discussions, research opportunities, and exposure to neurological conditions and specialties.",
+      "summary": "Explores the foundations and clinical aspects of neurology and neuroscience through educational activities, discussions, research opportunities, and exposure to neurological conditions and specialties.pdf",
       "posts": [
-        { "postTitle": "Body Mass Index and Migraine Burden ", "date": "June 2026", "pdf": "pdfs/Body Mass Index and Migraine Burden A Literature Review" }
+        { "postTitle": "Body Mass Index and Migraine Burden ", "date": "June 2026", "pdf": "pdfs/Body Mass Index and Migraine Burden A Literature Review.pdf" }
       ]
     },
     {
@@ -67,8 +67,8 @@
       "leader": "Nida Al-Bashiti",
       "summary": "Helps students develop a deeper understanding of pharmacology and its clinical applications through educational activities, discussions, and exploration of how medications influence patient care and treatment decisions.",
       "posts": [
-        { "postTitle": "Therapeutic Peptides in Rheumatoid and Osteoarthritis", "date": "June 2026", "pdf": "pdfs/Therapeutic Peptides in Rheumatoid and Osteoarthritis The Dream of Achieving More Tolerable Therapies, or Not" },
-        { "postTitle": " A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance", "date": "July 2026", "pdf": "pdfs/Ferroptosis Inducing Drugs A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance" }
+        { "postTitle": "Therapeutic Peptides in Rheumatoid and Osteoarthritis", "date": "June 2026", "pdf": "pdfs/Therapeutic Peptides in Rheumatoid and Osteoarthritis The Dream of Achieving More Tolerable Therapies, or Not.pdf" },
+        { "postTitle": " A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance", "date": "July 2026", "pdf": "pdfs/Ferroptosis Inducing Drugs A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance.pdf" }
       ]
     },
     {
@@ -77,14 +77,14 @@
       "leader": "Youmna Mamdooh",
       "summary": "Provides students with opportunities to explore psychiatry, mental health, and behavioral medicine through educational activities, clinical discussions, research, and awareness initiatives.",
       "posts": [
-        { "postTitle": "Perfectionism and Its Psychological Implications", "date": "June 2026", "pdf": "pdfs/Perfectionism A Multidimensional Construct and Its Psychological Implications" },
-        { "postTitle": "Psychological Consequences of Social Media Use", "date": "July 2026", "pdf": "pdfs/Psychological_Consequences_of_Social_Media_Use_Review_v3_voice (1)" }
+        { "postTitle": "Perfectionism and Its Psychological Implications", "date": "June 2026", "pdf": "pdfs/Perfectionism A Multidimensional Construct and Its Psychological Implications.pdf" },
+        { "postTitle": "Psychological Consequences of Social Media Use", "date": "July 2026", "pdf": "pdfs/Psychological_Consequences_of_Social_Media_Use_Review_v3_voice (1).pdf" }
       ]
     }
   ],
   "courses": [
     {
-      "youtubeId": "AQ8qTCmewVE ",
+      "youtubeId": "AQ8qTCmewVE",
       "title": "How to Write a Research Paper",
       "description": "A step-by-step guide to writing and publishing scientific papers, covering structure, methodology, and academic writing best practices.",
       "instructor": "Dr. Ahmad Hassanat"
