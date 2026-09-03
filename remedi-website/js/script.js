@@ -143,22 +143,16 @@ function personCard(p) {
 }
 
 function renderLinks(links) {
+  function renderLinks(links) {
   document.getElementById("addressText").textContent = links.address;
   document.getElementById("emailText").textContent = links.email;
   document.getElementById("footerEmailLink").href = `mailto:${links.email}`;
 
   const form = document.getElementById("contactForm");
-  if (links.googleForm && links.googleForm.startsWith("http")) {
-    form.action = links.googleForm;
-  } else {
-    // fallback: no Google Form linked yet — mailto instead
-    form.addEventListener("submit", (e) => {
-      e.preventDefault();
-      const fd = new FormData(form);
-      const body = [...fd.entries()].map(([k, v]) => `${k}: ${v}`).join("%0D%0A");
-      window.location.href = `mailto:${links.email}?subject=REMEDI Contact Form&body=${body}`;
-    });
-  }
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    window.open(links.googleForm, "_blank");
+  });
 }
 
 function renderFooterBlogLinks(groups) {
