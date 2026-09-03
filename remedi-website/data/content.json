@@ -1,14 +1,14 @@
 {
   "resources": {
     "proposalTemplates": [
-      { "name": "Clinical Case Report Proposal Template", "pdf": "pdfs/Clinical Case Report Proposal Template (6).pdf" },
-      { "name": "Systematic Review Proposal Template", "pdf": "pdfs/Systematic Review Proposal Template (7).pdf" },
-      { "name": "Literature Review Proposal Template", "pdf": "pdfs/Literature Review Proposal Template (8).pdf" },
-      { "name": "Cross-sectional Study Template", "pdf": "pdfs/Cross-sectional Study Template (9).pdf" }
+      { "name": "Clinical Case Report Proposal Template", "pdf": "pdfs/clinical-case-report-template.pdf" },
+      { "name": "Systematic Review Proposal Template", "pdf": "pdfs/systematic-review-template.pdf" },
+      { "name": "Literature Review Proposal Template", "pdf": "pdfs/literature-review-template.pdf" },
+      { "name": "Cross-sectional Study Template", "pdf": "pdfs/cross-sectional-study-template.pdf" }
     ],
     "writingGuides": [
-      { "name": "How to Write a Scientific Paper", "pdf": "pdfs/How to Write a Scientific Paper.pdf" },
-      { "name": "The Academic Blueprint", "pdf": "pdfs/The Academic Blueprint.pdf" }
+      { "name": "How to Write a Scientific Paper", "pdf": "pdfs/how-to-write-a-scientific-paper.pdf" },
+      { "name": "The Academic Blueprint", "pdf": "pdfs/the-academic-blueprint.pdf" }
     ],
     "researchOpportunities": "Discover open research positions, mentorship programmes, and collaboration opportunities across all seven interest groups. Join a project that matches your passion."
   },
@@ -101,19 +101,19 @@
       "type": "Activities",
       "title": "Activities",
       "description": "Explore our latest events, workshops, and collaborative activities. From hands-on research sessions to educational seminars, see what REMEDI members are working on.",
-      "image": "images/activities.png"
+      "image": "images/activities 2.png"
     },
     {
       "type": "Announcements",
       "title": "Announcements",
       "description": "Keep up with the latest news from REMEDI.",
-      "image": "images/announcements.png"
+      "image": "images/announcements (2).png"
     },
     {
       "type": "Research Opportunities",
       "title": "Research Opportunities",
       "description": "Discover open research positions, mentorship programmes, and collaboration opportunities across all seven interest groups. Join a project that matches your passion.",
-      "image": "images/research-opportunities.png"
+      "image": "images/research opportunities.png"
     }
   ],
   "team": {
