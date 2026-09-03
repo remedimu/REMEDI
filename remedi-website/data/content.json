@@ -17,7 +17,7 @@
       "tag": "Med AI",
       "title": "Med AI",
       "leader": "",
-      "summary": "Explores the growing role of artificial intelligence in healthcare, focusing on its clinical applications, research potential, ethical considerations, and impact on the future of medical practice.pdf.",
+      "summary": "Explores the growing role of artificial intelligence in healthcare, focusing on its clinical applications, research potential, ethical considerations, and impact on the future of medical practice.",
       "posts": [
         { "postTitle": "Machine Learning in Clinical Diagnostics", "date": "June 2026", "pdf": "pdfs/Artificial Intelligence in Orthopedic Surgery Current Applications, Challenges, and Future Directions.pdf" },
         { "postTitle": "AI X Oncology", "date": "July 2026", "pdf": "pdfs/Intelligence, Not Interpretation Rethinking Oncology Through Digital Pathology & Spatial Omics.pdf" }
@@ -27,17 +27,17 @@
       "tag": "Dermatology",
       "title": "Dermatology",
       "leader": "Lama Al-Hamaideh",
-      "summary": "Provides students with opportunities to explore dermatology through educational content, clinical discussions, research, and activities that highlight both common and specialized dermatological conditions.pdf",
+      "summary": "Provides students with opportunities to explore dermatology through educational content, clinical discussions, research, and activities that highlight both common and specialized dermatological conditions.",
       "posts": [
         { "postTitle": "Acne Through the Lens of the Skin Microbiome", "date": "June 2026", "pdf": "pdfs/Balance, Not Battle Rethinking Acne Through the Microbiome.pdf" },
-        { "postTitle": "AI X Skin Cancer", "date": "July 2026", "pdf": "pdfs/skin cancer(1).pdf" }
+        { "postTitle": "AI X Skin Cancer", "date": "July 2026", "pdf": "pdfs/skin cancer (1).pdf" }
       ]
     },
     {
       "tag": "Oncology",
       "title": "Oncology",
       "leader": "Mostafa Al-Rababah",
-      "summary": "Introduces students to the field of oncology through educational sessions, clinical discussions, research opportunities, and exploration of cancer prevention, diagnosis, treatment, and patient care.pdf",
+      "summary": "Introduces students to the field of oncology through educational sessions, clinical discussions, research opportunities, and exploration of cancer prevention, diagnosis, treatment, and patient care.",
       "posts": [
         { "postTitle": "Cancer Immunotherapy", "date": "June 2026", "pdf": "pdfs/cancer immunotherapy.pdf" },
         { "postTitle": "ibrutininb in Cancer Therapy", "date": "July 2026", "pdf": "pdfs/ibrutininb final.pdf" }
@@ -47,18 +47,18 @@
       "tag": "Paediatric",
       "title": "Paediatric",
       "leader": "Razan Al-Hamaideh",
-      "summary": "Encourages students to explore pediatrics through interactive learning, clinical discussions, research opportunities, and activities focused on the health and wellbeing of children and adolescents.pdf",
+      "summary": "Encourages students to explore pediatrics through interactive learning, clinical discussions, research opportunities, and activities focused on the health and wellbeing of children and adolescents.",
       "posts": [
-        { "postTitle": " Antibiotic Overprescription in Respiratory Tract Infections ", "date": "June 2026", "pdf": "pdfs/Factors Contributing to Antibiotic Overprescription in Pediatric Upper Respiratory Tract Infections Review Article.pdf" }
+        { "postTitle": "Antibiotic Overprescription in Respiratory Tract Infections", "date": "June 2026", "pdf": "pdfs/Factors Contributing to Antibiotic Overprescription in Pediatric Upper Respiratory Tract Infections Review Article.pdf" }
       ]
     },
     {
       "tag": "Neurology",
       "title": "Neurology",
       "leader": "Mohammed Al-Zeedien",
-      "summary": "Explores the foundations and clinical aspects of neurology and neuroscience through educational activities, discussions, research opportunities, and exposure to neurological conditions and specialties.pdf",
+      "summary": "Explores the foundations and clinical aspects of neurology and neuroscience through educational activities, discussions, research opportunities, and exposure to neurological conditions and specialties.",
       "posts": [
-        { "postTitle": "Body Mass Index and Migraine Burden ", "date": "June 2026", "pdf": "pdfs/Body Mass Index and Migraine Burden A Literature Review.pdf" }
+        { "postTitle": "Body Mass Index and Migraine Burden", "date": "June 2026", "pdf": "pdfs/Body Mass Index and Migraine Burden A Literature Review.pdf" }
       ]
     },
     {
@@ -68,7 +68,7 @@
       "summary": "Helps students develop a deeper understanding of pharmacology and its clinical applications through educational activities, discussions, and exploration of how medications influence patient care and treatment decisions.",
       "posts": [
         { "postTitle": "Therapeutic Peptides in Rheumatoid and Osteoarthritis", "date": "June 2026", "pdf": "pdfs/Therapeutic Peptides in Rheumatoid and Osteoarthritis The Dream of Achieving More Tolerable Therapies, or Not.pdf" },
-        { "postTitle": " A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance", "date": "July 2026", "pdf": "pdfs/Ferroptosis Inducing Drugs A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance.pdf" }
+        { "postTitle": "A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance", "date": "July 2026", "pdf": "pdfs/Ferroptosis Inducing Drugs A New Way to Get a Leg Up on Chemo and Radiotherapy Resistance.pdf" }
       ]
     },
     {
@@ -89,7 +89,6 @@
       "description": "A step-by-step guide to writing and publishing scientific papers, covering structure, methodology, and academic writing best practices.",
       "instructor": "Dr. Ahmad Hassanat"
     },
-
     {
       "youtubeId": "6D67-WZ9fBM",
       "title": "Academic Writing Guide",
@@ -102,19 +101,19 @@
       "type": "Activities",
       "title": "Activities",
       "description": "Explore our latest events, workshops, and collaborative activities. From hands-on research sessions to educational seminars, see what REMEDI members are working on.",
-      "image": "images/activities 2.png"
+      "image": "images/activities.png"
     },
     {
       "type": "Announcements",
       "title": "Announcements",
       "description": "Keep up with the latest news from REMEDI.",
-      "image": "images/announcements (2).png"
+      "image": "images/announcements.png"
     },
     {
       "type": "Research Opportunities",
       "title": "Research Opportunities",
       "description": "Discover open research positions, mentorship programmes, and collaboration opportunities across all seven interest groups. Join a project that matches your passion.",
-      "image": "images/research opportunities.png"
+      "image": "images/research-opportunities.png"
     }
   ],
   "team": {
