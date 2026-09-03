@@ -143,7 +143,6 @@ function personCard(p) {
 }
 
 function renderLinks(links) {
-  function renderLinks(links) {
   document.getElementById("addressText").textContent = links.address;
   document.getElementById("emailText").textContent = links.email;
   document.getElementById("footerEmailLink").href = `mailto:${links.email}`;
